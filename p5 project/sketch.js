@@ -1,11 +1,11 @@
-var cols, rows;
-var w = 40;
-var grid = [];
-var originalVector = [];
-var vectorMagnitude = [];
+// var cols, rows;
+// var w = 40;
+// var grid = [];
+// var originalVector = [];
+// var vectorMagnitude = [];
 
-var x1; //starting vertex
-var x2; //ending vertex
+// var x1; //starting vertex
+// var x2; //ending vertex
 var r = 16; //vertex radius
 
 function setup() {
