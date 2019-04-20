@@ -6,12 +6,12 @@
 
 // var x1; //starting vertex
 // var x2; //ending vertex
-var r = 16; //vertex radius
+// var r = 16; //vertex radius
 
-function setup() {
-  createCanvas(1500, 800);
-  cols = floor(width/w);
-  rows = floor(height/w);
+// function setup() {
+//   createCanvas(1500, 800);
+//   cols = floor(width/w);
+//   rows = floor(height/w);
 
   for (var j = 0; j < rows; j++) {
     for (var i = 0; i < cols; i++) {
